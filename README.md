@@ -1,0 +1,1 @@
+This code blur specific websites.To install this extension, you must go to the chrome://extensions/ link and activate the "Developer Mode" section at the top right. Afterwards, if you select the file containing the code in the load unpackage section, the plugin will be installed.
